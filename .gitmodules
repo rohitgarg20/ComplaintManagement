@@ -1,0 +1,3 @@
+[submodule "common-library"]
+	path = common-library
+	url = git@github.com-office:rohitgarg20/common-library.git
